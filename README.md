@@ -9,6 +9,8 @@ About Me
 
 ⤷ How to reach me: panzer chan#8578 on Discord. I turned off DM from anyone because of some recent events, but you can comment your tag so I don't ignore it!
 
+Note: if you see me mass deleting, it's because I fragged up the format.
+
 
 Tip for New Java People in DMOJ:
 --------------------------------

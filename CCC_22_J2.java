@@ -26,6 +26,7 @@ public class CCC_22_J2 {
 		
 		if (goldcounter==pln) out.println(goldcounter+"+");
 		else out.println(goldcounter);
+		//This code isn't working on test case 3. Currently trying to solve problems.
 	}
 
 }

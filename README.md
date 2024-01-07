@@ -1,53 +1,44 @@
-About Me
---------
+<h1>Paninizer</h1>
 
-→ Beginner at java! Yes, I'm a beginner, despite what it looks like.
+<h1>Visitor Count</h1>
 
-⤷ Try out StackOverflow!!!
-
-⤷ Ask me about anything related to java8 and DMOJ. I'll be glad to help out!
-
-⤷ How to reach me: panzer chan#8578 on Discord. I turned off DM from anyone because of some recent events, but you can comment your tag so I don't ignore it!
-
-Note: if you see me mass deleting, it's because I fragged up the format.
+<p align = "center"><img src = "https://count.getloli.com/get/@:paninizer?theme=rule34" </p></br>
+<p align = "center"><img src = "https://github-readme-stats.vercel.app/api?username=panzer-chan"> </p></br>
 
 
-Tip for New Java People in DMOJ:
---------------------------------
+<h2>About Me</h2>
 
-Always use **BufferedReader**
+I do **NOT** planning on getting into computer science or programming very seriously. All my projects are just small hobbies that I may or may not have time to maintain or expand. Coding is just a hobby that hopefully I help someone with. If not, I can at least do some casual scripting / tinkering around in my house.
 
-It's fast, versatile, and doesn't result in Eclipse giving you nightmares over memory leaks.
+<h4>Current Education: High School Level (Maybe First-Year Uni or above in certain subjects)</h4>
+<h4>I like paying for RTX GPUs. Fite me >:3</h4>
+<h4>Ruler of the Principality of Arktika. Current Population: 1 (Including Ruler)</h4>
 
-Example:
+Part-time composer of top quality music.</br>
+Meme Connoisseur</br>
 
-    import java.io.BufferedReader;
-    import java.io.IOException;
-    import java.io.InputStreamReader;
+[My DMOJ Account](https://dmoj.ca/user/panzer_shrek/solved)
 
-    /*Don't import stuff that you won't need. It takes up space.
-    New programmers like to include every single thing to show complexity.
-    Also, don't import the whole library if you only need some things from it.*/
-    
-    public class Russian_Bias {
-         public void main(String[] args) throws IOException 
-         //note you need to yeet IOException, or IOException will yeet you
-         {
-             BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-             //must include
+Have a Reimu (Coming SOON)
 
-             String test1 = br.readLine(); //br reads in string
-             
-             byte test2 = Byte.parseByte(br.readLine()); //so you need to parse
-             int test3 = Integer.parseInt(br.readLine()); 
-             //note that you need it to be a class, not a primitive object, but br.read() reads in int so...
-             //shown in Integer.parseInt(...)
+# Feel Free to Reach Out on Discord
 
-             System.out.println(test1+test2+test3);
-             //confirm if the code works. you can copy-paste this code to see if it works
-         }
-    }
+[![Discord Presence](https://lanyard.cnrad.dev/api/744625722714357800)](https://discord.com/users/744625722714357800)
 
-Also, **ABSOLUTELY** don't forget that **JAVA INDEXES STARTS AT 0**!!! Essential for many problems you will see around here.
+If I'm not available, ping me in this server please: https://discord.gg/program
 
-Lastly, watch your spellings. Don't want to get a WA just for misspellings or punctuations, right?
+-------------------------
+
+### 🛠 &nbsp;Tech Stack
+
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![Rust](https://img.shields.io/badge/-rust-05122A?style=flat&logo=rust&logoColor=CE422B)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&color=05122A&labelColor=05122A)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white&color=05122A&labelColor=05122A)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;

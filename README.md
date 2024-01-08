@@ -10,6 +10,8 @@
 
 I do **NOT** planning on getting into computer science or programming very seriously. All my projects are just small hobbies that I may or may not have time to maintain or expand. Coding is just a hobby that hopefully I help someone with. If not, I can at least do some casual scripting / tinkering around in my house.
 
+Can we get to 1 million views of this page???
+
 <h4>Current Education: High School Level (Maybe First-Year Uni or above in certain subjects)</h4>
 <h4>I like paying for RTX GPUs. Fite me >:3</h4>
 <h4>Ruler of the Principality of Arktika. Current Population: 1 (Including Ruler)</h4>

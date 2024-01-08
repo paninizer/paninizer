@@ -3,7 +3,7 @@
 <h1>Visitor Count</h1>
 
 <p align = "center"><img src = "https://count.getloli.com/get/@:paninizer?theme=rule34" </p></br>
-<p align = "center"><img src = "https://github-readme-stats.vercel.app/api?username=panzer-chan"> </p></br>
+<p align = "center"><img src = "https://github-readme-stats.vercel.app/api?username=paninizer"> </p></br>
 
 
 <h2>About Me</h2>

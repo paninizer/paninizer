@@ -2,7 +2,7 @@
 
 <h1>Visitor Count</h1>
 
-<p align = "center"><img src = "https://count.getloli.com/get/@:paninizer?theme=rule34" </p></br>
+<p align = "center"><img src = "https://api.sefinek.net/api/v2/moecounter/@paninizer?length=10&theme=default" </p></br>
 <p align = "center"><img src = "https://github-readme-stats.vercel.app/api?username=paninizer"> </p></br>
 
 
@@ -12,9 +12,7 @@ I do **NOT** planning on getting into computer science or programming very serio
 
 Can we get to 1 million views of this page???
 
-<h4>Current Education: High School Level (Maybe First-Year Uni or above in certain subjects)</h4>
-<h4>I like paying for RTX GPUs. Fite me >:3</h4>
-<h4>Ruler of the Principality of Arktika. Current Population: 1 (Including Ruler)</h4>
+Extremely tired all the time from the Freudian theory I'm forced to consume.
 
 Part-time composer of top quality music.</br>
 Meme Connoisseur</br>
